@@ -1,0 +1,22 @@
+{
+  "name": "professional-readme-file-generator",
+  "version": "1.0.0",
+  "description": "package to generate a professional README.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaybenu/Professional-REAME-generator.git"
+  },
+  "author": "Sanjay Chopra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaybenu/Professional-REAME-generator/issues"
+  },
+  "homepage": "https://github.com/sanjaybenu/Professional-REAME-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
