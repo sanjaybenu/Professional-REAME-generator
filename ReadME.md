@@ -1,5 +1,5 @@
-# Professional README Generator App
-![Github license](https://img.shields.io/badge/license--blue)
+# Sanjay Chopra
+![Github license](https://img.shields.io/badge/license-MIT-blue)
 ## Table of Contents
 * [Description](#description)
 * [Installation](#installation)
@@ -8,16 +8,16 @@
 * [Testing](#tests)
 * [Questions](#questions)
 ## Description
-This app generates Professional README.md file on answering some of its questions. It is a fun way of creating an README file. It allows the readme file to be created in with all the required sections. Once the module is installed, questions.js file can be updated to add or remove any sections and then updating the createreadme.js file to add the updated ections to the created README file.
+Sanjay Chopra
 ## Screenshots
 ![Alt text](TBA)
 ## Installation
-TBA
+Sanjay Chopra
 ## Usage
-Open the package in an editor of your choice. Install inquirer package. Right click on index.js and open it in the integrated terminal. Then type node index.js click. Answer questions and voila README file is generated.
+TBA
 ## Tests
 TBA
 ## Contributors
-
+TBA
 ## Questions
-If you have any questions or suggestions please [contact](mailto:sanjaybenu@gmail.com?subject=README_file_generator) or visit [github/sanjaybenu](https://github.com/sanjaybenu)
+If you have any questions or suggestions please [contact](mailto:TBA?subject=README_file_generator) or visit [github/TBA](https://github.com/TBA)
