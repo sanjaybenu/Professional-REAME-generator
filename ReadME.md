@@ -41,7 +41,7 @@ Now you can run the following command.
 
 <img width="655" alt="Screenshot6" src="https://user-images.githubusercontent.com/105487471/233835428-fe008623-b7a1-4ef0-b06c-775e7a9f84e5.png">
 
-You will be asked a questions about your project.
+You will be asked a few questions about your project.
 
 <img width="729" alt="Screenshot7" src="https://user-images.githubusercontent.com/105487471/233835451-7709df8d-ddc3-4109-807c-2f7edce199c5.png">
 
