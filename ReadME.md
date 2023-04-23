@@ -1,4 +1,4 @@
-# Professional README.md File Generator
+# Professional README file generator
 ![Github license](https://img.shields.io/badge/license-MIT-blue)
 ## Table of Contents
 * [Description](#description)
@@ -10,20 +10,20 @@
 * [License](#license)
 * [Questions](#questions)
 ## Description
-This app is a Professional README file generator. This is designed to This app is a professional readme file generator. This is 
+This app generates professional README files for developers
 ## Screenshots
-![Alt text](./screenshots/screenshot1.png)
+![Alt text](./screenshots/main.png)
 ## Installation
-projects. It is a fun way of creating a README file.Go to the github repository and clone the project 
+Go to github repo. Clone repo in your computer. Install npm using npm insatll. npm i inquirer@8.2.4
 ## Usage
-Use node index.js command and answer all the questions asked in the terminal
+See my instruction video.
 ## Tests
 TBA
 ## Contribute
-Please feel free to add features to the project. Create a pull requesdt for adding a feature.
+Please create a pull request for features you want to add to the project.
 ## Contributors
-Jack Song. ./screenshots/screenshot2.png
+My instructors Jack Song and SID Baral
 ## License
-This is developed under MIT licence.
+Under MIT. 
 ## Questions
 If you have any questions or suggestions please [contact](mailto:sanjaybenu@gmail.com?subject=README_file_generator) or visit [github/sanjaybenu](https://github.com/sanjaybenu)
