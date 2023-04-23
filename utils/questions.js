@@ -43,6 +43,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "contribute",
+        message: "How to contribute to the project?",
+    },
+    {
+        type: "input",
         name: "author",
         message: "Write your GitHub username.",
     },
@@ -50,6 +55,11 @@ const questions = [
         type: "input",
         name: "email",
         message: "Provide a valid email address.",
+    },
+    {
+        type: "input",
+        name: "license",
+        message: "Describe license for using your app?",
     },
 
 ];
