@@ -49,6 +49,8 @@ Once all questions have been answered the README.md file will be generated.
 
 ![Alt text](./screenshots/main.png)
 
+You can also click on the links provide in the README file to go straight to that section
+
 ## Usage
 Please refer to section above about the usage.
 
