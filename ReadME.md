@@ -15,34 +15,35 @@ This app is a professional readme file generator. This is designed to help devel
 
 ## Screenshots
 ![Alt text](./screenshots/main.png)
+
 ## Installation
 Go to the github repository and clone the project into a local directory at your computer.
 
 Before you can start using the app, please ensure you have package.json in your folder. 
 
-![Alt text](./screenshots/screenshot1.png)
+<img width="263" alt="Screenshot1" src="https://user-images.githubusercontent.com/105487471/233835354-1dfd9bee-0324-4e1b-9560-942590b9f0e1.png">
 
 Now run the following command in terminal to install dependencies you need for the project.
 
-![Alt text](./screenshots/screenshot2.png)
+<img width="509" alt="Screenshot2" src="https://user-images.githubusercontent.com/105487471/233835378-023f7fd0-b3f0-437e-a741-b636001524df.png">
+
 
 If you do not find the package.json file, please run the following commands on your terminal.
 
-![Alt text](./screenshots/screenshot3.png)
-
-![Alt text](./screenshots/screenshot4.png)
+<img width="863" alt="Screenshot3" src="https://user-images.githubusercontent.com/105487471/233835401-ffa87a77-0afd-4c31-aa8a-a79bcf76dc6c.png">
+<img width="535" alt="Screenshot4" src="https://user-images.githubusercontent.com/105487471/233835404-2dfe673b-0de1-4196-90a2-14e331417fc4.png">
 
 After you have run this command, package-lock.json file and node modules folder will be created.
 
-![Alt text](./screenshots/screenshot5.png)
+<img width="210" alt="Screenshot5" src="https://user-images.githubusercontent.com/105487471/233835417-87a66d6c-0ba9-47d1-adf6-0c55afe208c0.png">
 
 Now you can run the following command.
 
-![Alt text](./screenshots/screenshot6.png)
+<img width="655" alt="Screenshot6" src="https://user-images.githubusercontent.com/105487471/233835428-fe008623-b7a1-4ef0-b06c-775e7a9f84e5.png">
 
 You will be asked a questions about your project.
 
-![Alt text](./screenshots/screenshot7.png)
+<img width="729" alt="Screenshot7" src="https://user-images.githubusercontent.com/105487471/233835451-7709df8d-ddc3-4109-807c-2f7edce199c5.png">
 
 Once all questions have been answered the README.md file will be generated.
 
@@ -51,7 +52,9 @@ Once all questions have been answered the README.md file will be generated.
 ## Usage
 Please refer to section above about the usage.
 
-You can also refer to the following vide for a demonstration of the project.
+You can also refer to the following video for a demonstration of the project.
+
+https://youtu.be/G2wp1jZ_pGA
 
 ## Tests
 TBA
