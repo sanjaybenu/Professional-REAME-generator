@@ -19,6 +19,8 @@ This app is a professional readme file generator. This is designed to help devel
 ## Installation
 Go to the github repository and clone the project into a local directory at your computer.
 
+https://github.com/sanjaybenu/Professional-REAME-generator
+
 Before you can start using the app, please ensure you have package.json in your folder. 
 
 <img width="263" alt="Screenshot1" src="https://user-images.githubusercontent.com/105487471/233835354-1dfd9bee-0324-4e1b-9560-942590b9f0e1.png">
